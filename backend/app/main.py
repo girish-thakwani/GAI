@@ -31,7 +31,8 @@ app.mount("/static", StaticFiles(directory="static"), name="static")
 
 @app.get("/")
 async def root():
-    return {"message": "Textile Sales Analytics API", "status": "running"}
+    return FileResponse("static/index.html")
+    #return {"message": "Textile Sales Analytics API", "status": "running"}
 
 @app.get("/health")
 async def health_check():

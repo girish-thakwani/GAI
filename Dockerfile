@@ -7,14 +7,14 @@ WORKDIR /app
 # Copy package files
 COPY frontend/package*.json ./
 
-# Install dependencies with proper permissions
-RUN npm ci && npm install
+# Install dependencies
+RUN npm ci
 
 # Copy source code
 COPY frontend/ .
 
-# Build the application
-RUN npm run build
+# Build the application using npx (better permission handling)
+RUN npx vite build
 
 # Stage 2: Backend
 FROM python:3.11-slim
@@ -23,7 +23,9 @@ WORKDIR /app
 
 # Copy requirements and install Python dependencies
 COPY backend/requirements.txt .
-RUN pip install --no-cache-dir -r requirements.txt
+# Remove pywinpty (Windows-only, causes build errors in Linux Docker)
+RUN grep -v pywinpty requirements.txt > requirements-clean.txt && \
+    pip install --no-cache-dir -r requirements-clean.txt
 
 # Copy backend source code
 COPY backend/ .

@@ -1,14 +1,14 @@
-#Multi-stage Dockerfile 
+# Multi-stage Dockerfile
 # Stage 1: Build frontend
-FROM node:18-alpine AS frontend
+FROM node:18-slim AS frontend
 
 WORKDIR /app
 
 # Copy package files
 COPY frontend/package*.json ./
 
-# Install dependencies
-RUN npm ci
+# Install dependencies with proper permissions
+RUN npm ci && npm install
 
 # Copy source code
 COPY frontend/ .

@@ -13,8 +13,11 @@ RUN npm ci
 # Copy source code
 COPY frontend/ .
 
-# Build the application using npx (better permission handling)
-RUN npx vite build
+# Ensure node_modules binaries are executable
+RUN chmod -R +x node_modules/.bin
+
+# Build the application
+RUN npm run build
 
 # Stage 2: Backend
 FROM python:3.11-slim

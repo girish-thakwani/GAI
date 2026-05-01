@@ -38,6 +38,6 @@ async def root():
 async def health_check():
     return {"status": "healthy"}
 
-@app.get("/{full_path:path}")
-async def serve_spa(full_path: str):
-    return FileResponse("static/index.html")
+#@app.get("/{full_path:path}")
+#async def serve_spa(full_path: str):
+#    return FileResponse("static/index.html")

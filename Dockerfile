@@ -26,9 +26,10 @@ WORKDIR /app
 
 # Copy requirements and install Python dependencies
 COPY backend/requirements.txt .
-# Remove pywinpty (Windows-only, causes build errors in Linux Docker)
-RUN grep -v pywinpty requirements.txt > requirements-clean.txt && \
-    pip install --no-cache-dir -r requirements-clean.txt
+
+RUN pip install --upgrade pip && \
+    pip install --no-cache-dir -r requirements.txt && \
+    pip install --no-cache-dir uvicorn[standard]
 
 # Copy backend source code
 COPY backend/ .

@@ -1,0 +1,228 @@
+date,product_name,fabric_type,quantity,unit_price,category
+2025-01-05,Silk Saree Traditional,Silk,25,4500,Ethnic Wear
+2025-01-05,Cotton Kurti Set,Cotton,50,1200,Ethnic Wear
+2025-01-06,Polyester Shirt,Polyester,100,800,Formal Wear
+2025-01-06,Linen Trousers,Linen,30,2500,Formal Wear
+2025-01-07,Silk Blouse,Silk,40,1800,Ethnic Wear
+2025-01-07,Cotton Bed Sheet Set,Cotton,20,3500,Home Textiles
+2025-01-08,Denim Jeans,Denim,60,2200,Casual Wear
+2025-01-08,Velvet Cushion Cover,Velvet,45,600,Home Textiles
+2025-01-09,Wool Sweater,Wool,35,2800,Winter Wear
+2025-01-09,Chiffon Scarf,Chiffon,80,450,Accessories
+2025-01-10,Rayon Maxi Dress,Rayon,55,1500,Casual Wear
+2025-01-10,Nylon Sports T-Shirt,Nylon,90,700,Sports Wear
+2025-01-11,Silk Evening Gown,Silk,15,8500,Formal Wear
+2025-01-11,Cotton T-Shirt,Cotton,120,500,Casual Wear
+2025-01-12,Polyester Uniform Fabric,Polyester,200,300,Industrial
+2025-01-12,Linen Summer Shirt,Linen,40,1800,Casual Wear
+2025-01-13,Georgette Party Dress,Georgette,25,3200,Formal Wear
+2025-01-13,Cashmere Shawl,Cashmere,10,6500,Accessories
+2025-01-14,Denim Jacket,Denim,30,4500,Casual Wear
+2025-01-14,Cotton Pillowcase Set,Cotton,60,800,Home Textiles
+2025-01-15,Silk Dupatta,Silk,70,1200,Accessories
+2025-01-15,Polyester Office Shirt,Polyester,85,900,Formal Wear
+2025-01-16,Wool Blazer,Wool,20,5500,Formal Wear
+2025-01-16,Velvet Curtain Panel,Velvet,25,2800,Home Textiles
+2025-01-17,Cotton Night Suit,Cotton,45,1100,Sleepwear
+2025-01-17,Nylon Running Shorts,Nylon,75,650,Sports Wear
+2025-01-18,Silk Kimono,Silk,12,4200,Ethnic Wear
+2025-01-18,Linen Palazzo Pants,Linen,50,1600,Ethnic Wear
+2025-01-19,Rayon Summer Dress,Rayon,65,1400,Casual Wear
+2025-01-19,Denim Skirt,Denim,40,1800,Casual Wear
+2025-01-20,Chiffon Blouse,Chiffon,55,1100,Ethnic Wear
+2025-01-20,Cotton Towel Set,Cotton,100,450,Home Textiles
+2025-01-21,Polyester Track Suit,Polyester,40,2200,Sports Wear
+2025-01-21,Silk Scarf Premium,Silk,30,2500,Accessories
+2025-01-22,Wool Cardigan,Wool,25,3500,Winter Wear
+2025-01-22,Georgette Saree,Georgette,20,3800,Ethnic Wear
+2025-01-23,Cashmere Sweater,Cashmere,8,7200,Winter Wear
+2025-01-23,Cotton Kurta,Cotton,90,950,Ethnic Wear
+2025-01-24,Velvet Bedspread,Velvet,15,4500,Home Textiles
+2025-01-24,Nylon Gym Leggings,Nylon,70,800,Sports Wear
+2025-01-25,Silk Nightwear Set,Silk,20,2800,Sleepwear
+2025-01-25,Linen Blazer,Linen,18,4800,Formal Wear
+2025-01-26,Denim Casual Pants,Denim,55,1900,Casual Wear
+2025-01-26,Polyester Dress Fabric,Polyester,150,400,Industrial
+2025-01-27,Cotton Kids T-Shirt,Cotton,130,350,Casual Wear
+2025-01-27,Chiffon Evening Dress,Chiffon,22,4200,Formal Wear
+2025-01-28,Rayon Palazzo Set,Rayon,48,1700,Ethnic Wear
+2025-01-28,Wool Winter Coat,Wool,15,8500,Winter Wear
+2025-01-29,Silk Designer Saree,Silk,10,12000,Ethnic Wear
+2025-01-29,Cotton Bedsheet Queen,Cotton,35,2800,Home Textiles
+2025-01-30,Nylon Windbreaker,Nylon,45,1800,Sports Wear
+2025-01-30,Velvet Throw Pillow,Velvet,60,550,Home Textiles
+2025-02-01,Polyester Corporate Shirt,Polyester,95,850,Formal Wear
+2025-02-01,Linen Summer Shorts,Linen,65,1200,Casual Wear
+2025-02-02,Denim Jacket Classic,Denim,35,3800,Casual Wear
+2025-02-02,Cotton Yoga Pants,Cotton,80,900,Sports Wear
+2025-02-03,Silk Blouse Designer,Silk,28,2200,Ethnic Wear
+2025-02-03,Georgette Top,Georgette,70,980,Casual Wear
+2025-02-04,Cashmere Scarf,Cashmere,12,5500,Accessories
+2025-02-04,Cotton Formal Trousers,Cotton,55,1500,Formal Wear
+2025-02-05,Wool Sweater Premium,Wool,30,3200,Winter Wear
+2025-02-05,Rayon Anarkali Dress,Rayon,40,2400,Ethnic Wear
+2025-02-06,Chiffon Saree,Chiffon,25,2800,Ethnic Wear
+2025-02-06,Nylon Swimwear,Nylon,50,1200,Sports Wear
+2025-02-07,Silk Evening Scarf,Silk,45,1500,Accessories
+2025-02-07,Denim Jeans Classic,Denim,75,2100,Casual Wear
+2025-02-08,Polyester Uniform Pants,Polyester,120,700,Industrial
+2025-02-08,Cotton Casual Shirt,Cotton,100,750,Casual Wear
+2025-02-09,Linen Beach Shorts,Linen,55,1100,Casual Wear
+2025-02-09,Velvet Table Runner,Velvet,40,650,Home Textiles
+2025-02-10,Silk Wedding Saree,Silk,8,15000,Ethnic Wear
+2025-02-10,Cotton Kitchen Towel,Cotton,150,250,Home Textiles
+2025-02-11,Wool Muffler,Wool,35,1800,Winter Wear
+2025-02-11,Georgette Floral Dress,Georgette,30,2600,Casual Wear
+2025-02-12,Rayon Straight Pants,Rayon,60,1300,Casual Wear
+2025-02-12,Nylon Cycling Jersey,Nylon,40,950,Sports Wear
+2025-02-13,Cashmere Cardigan,Cashmere,10,6800,Winter Wear
+2025-02-13,Cotton Flannel Shirt,Cotton,70,850,Winter Wear
+2025-02-14,Silk Valentine Scarf,Silk,100,1800,Accessories
+2025-02-14,Denim Winter Jacket,Denim,25,4200,Winter Wear
+2025-02-15,Polyester Sports Shorts,Polyester,85,600,Sports Wear
+2025-02-15,Linen Formal Pants,Linen,45,2000,Formal Wear
+2025-02-16,Chiffon Bridal Dress,Chiffon,5,12000,Formal Wear
+2025-02-16,Cotton Summer Dress,Cotton,90,1100,Casual Wear
+2025-02-17,Velvet Cushion Set,Velvet,50,750,Home Textiles
+2025-02-17,Wool Winter Suit,Wool,15,9500,Formal Wear
+2025-02-18,Silk Designer Blouse,Silk,22,3500,Ethnic Wear
+2025-02-18,Rayon Maxi Skirt,Rayon,55,1200,Casual Wear
+2025-02-19,Nylon Running Jacket,Nylon,35,2200,Sports Wear
+2025-02-19,Cotton Polo T-Shirt,Cotton,110,650,Casual Wear
+2025-02-20,Denim Cargo Pants,Denim,50,2400,Casual Wear
+2025-02-20,Polyester Lining Fabric,Polyester,180,250,Industrial
+2025-02-21,Georgette Designer Top,Georgette,45,1800,Casual Wear
+2025-02-21,Cashmere Wrap,Cashmere,8,8500,Accessories
+2025-02-22,Silk Ethnic Wear Set,Silk,18,4500,Ethnic Wear
+2025-02-22,Cotton Night Dress,Cotton,65,980,Sleepwear
+2025-02-23,Linen Casual Pants,Linen,70,1400,Casual Wear
+2025-02-23,Velvet Bed Runner,Velvet,30,1800,Home Textiles
+2025-02-24,Wool Coat,Wool,12,9800,Winter Wear
+2025-02-24,Chiffon Summer Scarf,Chiffon,85,550,Accessories
+2025-02-25,Rayon Palazzo,Rayon,58,1450,Ethnic Wear
+2025-02-25,Nylon Compression Pants,Nylon,45,1100,Sports Wear
+2025-02-26,Denim Capri,Denim,40,1700,Casual Wear
+2025-02-26,Cotton Tunic,Cotton,75,1050,Ethnic Wear
+2025-02-27,Polyester Formal Trousers,Polyester,90,1200,Formal Wear
+2025-02-27,Silk Dupatta Fancy,Silk,65,1400,Accessories
+2025-02-28,Georgette Party Top,Georgette,52,1600,Casual Wear
+2025-02-28,Cashmere Pullover,Cashmere,6,7500,Winter Wear
+2025-03-01,Cotton Spring Dress,Cotton,85,1250,Casual Wear
+2025-03-01,Wool Spring Coat,Wool,20,6500,Spring Wear
+2025-03-02,Denim Spring Jacket,Denim,30,3500,Spring Wear
+2025-03-02,Linen Spring Shirt,Linen,60,1550,Casual Wear
+2025-03-03,Silk Spring Saree,Silk,15,6500,Ethnic Wear
+2025-03-03,Rayon Summer Maxi,Rayon,70,1350,Casual Wear
+2025-03-04,Chiffon Spring Dress,Chiffon,35,2800,Casual Wear
+2025-03-04,Nylon Spring Jacket,Nylon,50,1800,Sports Wear
+2025-03-05,Polyester Summer Shirt,Polyester,95,780,Casual Wear
+2025-03-05,Cotton Summer Shorts,Cotton,110,650,Casual Wear
+2025-03-06,Velvet Spring Cushion,Velvet,55,620,Home Textiles
+2025-03-06,Wool Spring Cardigan,Wool,25,3800,Spring Wear
+2025-03-07,Silk Summer Blouse,Silk,40,2100,Ethnic Wear
+2025-03-07,Georgette Summer Top,Georgette,68,1150,Casual Wear
+2025-03-08,Cashmere Spring Shawl,Cashmere,10,5800,Accessories
+2025-03-08,Cotton Summer Kurti,Cotton,120,900,Ethnic Wear
+2025-03-09,Denim Summer Jeans,Denim,80,2000,Casual Wear
+2025-03-09,Linen Summer Pants,Linen,65,1650,Casual Wear
+2025-03-10,Rayon Summer Dress,Rayon,75,1400,Casual Wear
+2025-03-10,Nylon Summer Shorts,Nylon,70,720,Sports Wear
+2025-03-11,Polyester Summer T-Shirt,Polyester,130,550,Casual Wear
+2025-03-11,Silk Summer Scarf,Silk,90,1200,Accessories
+2025-03-12,Chiffon Summer Scarf,Chiffon,95,480,Accessories
+2025-03-12,Wool Summer Blazer,Wool,18,5500,Spring Wear
+2025-03-13,Velvet Summer Throw,Velvet,45,850,Home Textiles
+2025-03-13,Cotton Summer Tunic,Cotton,100,980,Ethnic Wear
+2025-03-14,Denim Summer Skirt,Denim,55,1750,Casual Wear
+2025-03-14,Georgette Summer Dress,Georgette,42,2200,Casual Wear
+2025-03-15,Rayon Summer Palazzo,Rayon,62,1500,Ethnic Wear
+2025-03-15,Cashmere Summer Wrap,Cashmere,7,6500,Accessories
+2025-03-16,Polyester Summer Uniform,Polyester,140,450,Industrial
+2025-03-16,Cotton Summer Nightwear,Cotton,80,850,Sleepwear
+2025-03-17,Silk Summer Kurti,Silk,35,2400,Ethnic Wear
+2025-03-17,Linen Summer Shorts,Linen,72,1250,Casual Wear
+2025-03-18,Nylon Summer Activewear,Nylon,60,950,Sports Wear
+2025-03-18,Denim Summer Jacket,Denim,28,3800,Casual Wear
+2025-03-19,Chiffon Summer Blouse,Chiffon,58,1350,Ethnic Wear
+2025-03-19,Wool Summer Sweater,Wool,22,3200,Spring Wear
+2025-03-20,Velvet Summer Cushion Set,Velvet,52,700,Home Textiles
+2025-03-20,Cotton Summer Dress,Cotton,115,1050,Casual Wear
+2025-03-21,Georgette Summer Top,Georgette,75,1280,Casual Wear
+2025-03-21,Rayon Summer Anarkali,Rayon,48,2600,Ethnic Wear
+2025-03-22,Polyester Summer Shirt,Polyester,105,820,Casual Wear
+2025-03-22,Silk Summer Dupatta,Silk,78,1100,Accessories
+2025-03-23,Cashmere Summer Scarf,Cashmere,9,5200,Accessories
+2025-03-23,Cotton Summer Kurta Set,Cotton,92,1150,Ethnic Wear
+2025-03-24,Denim Summer Capri,Denim,45,1850,Casual Wear
+2025-03-24,Linen Summer Trousers,Linen,68,1750,Casual Wear
+2025-03-25,Nylon Summer Leggings,Nylon,85,780,Sports Wear
+2025-03-25,Chiffon Summer Saree,Chiffon,28,3200,Ethnic Wear
+2025-03-26,Velvet Summer Bedspread,Velvet,20,4200,Home Textiles
+2025-03-26,Wool Summer Jacket,Wool,16,5800,Spring Wear
+2025-03-27,Silk Summer Blouse Set,Silk,32,2800,Ethnic Wear
+2025-03-27,Georgette Summer Dress,Georgette,55,2100,Casual Wear
+2025-03-28,Rayon Summer Maxi Dress,Rayon,65,1550,Casual Wear
+2025-03-28,Cotton Summer Night Suit,Cotton,88,920,Sleepwear
+2025-03-29,Polyester Summer Polo,Polyester,118,680,Casual Wear
+2025-03-29,Denim Summer Shorts,Denim,92,1450,Casual Wear
+2025-03-30,Cashmere Summer Cardigan,Cashmere,5,7200,Spring Wear
+2025-03-30,Linen Summer Beach Shorts,Linen,78,1350,Casual Wear
+2025-04-01,Silk Eid Saree,Silk,18,8500,Ethnic Wear
+2025-04-01,Cotton Eid Kurta,Cotton,85,1100,Ethnic Wear
+2025-04-02,Chiffon Eid Dress,Chiffon,35,3500,Formal Wear
+2025-04-02,Rayon Eid Suit,Rayon,50,2200,Ethnic Wear
+2025-04-03,Polyester Eid Shirt,Polyester,90,950,Ethnic Wear
+2025-04-03,Denim Eid Jacket,Denim,25,4200,Casual Wear
+2025-04-04,Velvet Eid Cushion,Velvet,60,680,Home Textiles
+2025-04-04,Wool Eid Shawl,Wool,15,5500,Accessories
+2025-04-05,Georgette Eid Top,Georgette,45,1800,Casual Wear
+2025-04-05,Cashmere Eid Wrap,Cashmere,8,7800,Accessories
+2025-04-06,Cotton Summer Bedsheet,Cotton,40,3200,Home Textiles
+2025-04-06,Silk Summer Saree,Silk,22,7200,Ethnic Wear
+2025-04-07,Linen Summer Suit,Linen,30,4500,Formal Wear
+2025-04-07,Nylon Summer Activewear,Nylon,75,1050,Sports Wear
+2025-04-08,Rayon Summer Dress,Rayon,68,1480,Casual Wear
+2025-04-08,Denim Summer Jeans,Denim,82,2100,Casual Wear
+2025-04-09,Polyester Summer T-Shirt,Polyester,145,580,Casual Wear
+2025-04-09,Chiffon Summer Scarf,Chiffon,100,520,Accessories
+2025-04-10,Velvet Summer Throw,Velvet,48,920,Home Textiles
+2025-04-10,Wool Summer Cardigan,Wool,24,3600,Spring Wear
+2025-04-11,Silk Summer Blouse,Silk,38,2350,Ethnic Wear
+2025-04-11,Cotton Summer Tunic,Cotton,105,1020,Ethnic Wear
+2025-04-12,Georgette Summer Dress,Georgette,58,2150,Casual Wear
+2025-04-12,Cashmere Summer Scarf,Cashmere,11,5400,Accessories
+2025-04-13,Denim Summer Skirt,Denim,52,1780,Casual Wear
+2025-04-13,Linen Summer Pants,Linen,70,1680,Casual Wear
+2025-04-14,Rayon Summer Palazzo,Rayon,64,1520,Ethnic Wear
+2025-04-14,Nylon Summer Leggings,Nylon,88,820,Sports Wear
+2025-04-15,Polyester Summer Uniform,Polyester,155,480,Industrial
+2025-04-15,Cotton Summer Nightwear,Cotton,82,880,Sleepwear
+2025-04-16,Silk Summer Kurti,Silk,36,2480,Ethnic Wear
+2025-04-16,Chiffon Summer Top,Chiffon,72,1280,Casual Wear
+2025-04-17,Velvet Summer Cushion Set,Velvet,55,720,Home Textiles
+2025-04-17,Wool Summer Sweater,Wool,26,3400,Spring Wear
+2025-04-18,Georgette Summer Maxi,Georgette,48,2280,Casual Wear
+2025-04-18,Cotton Summer Dress,Cotton,118,1080,Casual Wear
+2025-04-19,Denim Summer Jacket,Denim,30,3900,Casual Wear
+2025-04-19,Rayon Summer Anarkali,Rayon,46,2680,Ethnic Wear
+2025-04-20,Polyester Summer Shirt,Polyester,108,840,Casual Wear
+2025-04-20,Silk Summer Dupatta,Silk,82,1180,Accessories
+2025-04-21,Cashmere Summer Wrap,Cashmere,6,6800,Accessories
+2025-04-21,Cotton Summer Kurta,Cotton,95,1120,Ethnic Wear
+2025-04-22,Linen Summer Shorts,Linen,76,1320,Casual Wear
+2025-04-22,Nylon Summer Shorts,Nylon,78,760,Sports Wear
+2025-04-23,Chiffon Summer Saree,Chiffon,32,3380,Ethnic Wear
+2025-04-23,Velvet Summer Bedspread,Velvet,22,4380,Home Textiles
+2025-04-24,Silk Summer Blouse Set,Silk,34,2880,Ethnic Wear
+2025-04-24,Georgette Summer Top,Georgette,62,1380,Casual Wear
+2025-04-25,Denim Summer Capri,Denim,48,1880,Casual Wear
+2025-04-25,Rayon Summer Maxi Dress,Rayon,66,1580,Casual Wear
+2025-04-26,Polyester Summer Polo,Polyester,122,700,Casual Wear
+2025-04-26,Cotton Summer Night Suit,Cotton,86,920,Sleepwear
+2025-04-27,Wool Summer Jacket,Wool,18,5900,Spring Wear
+2025-04-27,Cashmere Summer Cardigan,Cashmere,7,7400,Spring Wear
+2025-04-28,Velvet Summer Runner,Velvet,32,1880,Home Textiles
+2025-04-28,Cotton Summer T-Shirt,Cotton,155,580,Casual Wear
+2025-04-29,Silk Summer Scarf Premium,Silk,95,1350,Accessories
+2025-04-29,Linen Summer Beach Pants,Linen,80,1420,Casual Wear
+2025-04-30,Nylon Summer Sports Bra,Nylon,90,850,Sports Wear

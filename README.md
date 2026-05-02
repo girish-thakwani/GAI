@@ -38,7 +38,7 @@ A full-stack web application for analyzing textile sales data, tracking trends, 
 - **Uvicorn** - ASGI server
 - **Pandas** - Data manipulation
 - **NumPy** - Numerical computations
-- **Scikit-learn** - Machine learning for forecasting
+- **Scikit-learn** - Machine learning for forecasting (RandomForrestRegressor and StandardScalar)
 
 ### Deployment
 - **Docker** - Containerization

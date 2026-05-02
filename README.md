@@ -6,6 +6,9 @@ A full-stack web application for analyzing textile sales data, tracking trends, 
 ![FastAPI](https://img.shields.io/badge/FastAPI-latest-green)
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Node.js](https://img.shields.io/badge/Node.js-18-green)
+##Screenshots
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f0f48139-a8de-492d-8fc5-89331125934a" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3362a108-6c5c-4de0-833c-afc988da2641" />
 
 ## Features
 

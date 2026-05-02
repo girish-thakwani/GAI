@@ -10,7 +10,7 @@ class DataProcessor:
         self.df: Optional[pd.DataFrame] = None
         self.is_loaded = False
     
-    def load_csv(self, file_path: str) -> Dict
+    def load_csv(self, file_path: str) -> Dict:
         try:
             # Read CSV
             df = pd.read_csv(file_path)

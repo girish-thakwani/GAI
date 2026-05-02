@@ -3,7 +3,6 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.staticfiles import StaticFiles
-from fastapi.responses import FileResponse
 from app.routes import upload, analytics, forecast
 
 app = FastAPI(
@@ -26,18 +25,10 @@ app.include_router(upload.router, prefix="/api", tags=["Upload"])
 app.include_router(analytics.router, prefix="/api/analytics", tags=["Analytics"])
 app.include_router(forecast.router, prefix="/api", tags=["Forecast"])
 
-# Serve static files
-app.mount("/static", StaticFiles(directory="static"), name="static")
-
-@app.get("/")
-async def root():
-    return FileResponse("static/index.html")
-    #return {"message": "Textile Sales Analytics API", "status": "running"}
+# Serve static files and SPA
+app.mount("/", StaticFiles(directory="static", html=True), name="static")
 
 @app.get("/health")
 async def health_check():
     return {"status": "healthy"}
 
-#@app.get("/{full_path:path}")
-#async def serve_spa(full_path: str):
-#    return FileResponse("static/index.html")
